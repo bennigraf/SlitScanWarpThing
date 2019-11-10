@@ -2,7 +2,7 @@
  * Time-Warping Slitscan-like effect thing 
  * By Benjamin Graf.
  *
- * Idea shamelessly stolen by someone (???) 
+ * Idea based on William Forsythe's "City of Abstracts" 
  */
  
  
